@@ -4,10 +4,10 @@
     "retries": 2,
     "defaultCommandTimeout": 5000,
     "watchForFileChanges": true,
-    "integrationFolder": "tests/cypress/integration",
-    "pluginsFile": "tests/cypress/plugins/index.js",
-    "videosFolder": "tests/cypress/videos",
-    "supportFile": "tests/cypress/support/index.js",
-    "screenshotsFolder": "tests/cypress/screenshots",
-    "fixturesFolder": "tests/cypress/fixture"
+    "integrationFolder": "cypress/integration",
+    "pluginsFile": "cypress/plugins/index.js",
+    "videosFolder": "cypress/videos",
+    "supportFile": "cypress/support/index.js",
+    "screenshotsFolder": "cypress/screenshots",
+    "fixturesFolder": "cypress/fixture"
 }
